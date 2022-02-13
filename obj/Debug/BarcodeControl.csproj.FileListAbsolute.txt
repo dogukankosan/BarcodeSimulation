@@ -1,0 +1,18 @@
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\bin\Debug\BarcodControl.exe
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\bin\Debug\BarcodControl.pdb
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.Form1.resources
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.Properties.Resources.resources
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodeControl.csproj.GenerateResource.Cache
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.exe
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.pdb
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodeControl.csprojResolveAssemblyReference.cache
+C:\Users\ghasa\source\repos\BarcodControl\bin\Debug\BarcodControl.exe
+C:\Users\ghasa\source\repos\BarcodControl\bin\Debug\BarcodControl.pdb
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodeControl.csproj.AssemblyReference.cache
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodControl.Form1.resources
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodControl.Properties.Resources.resources
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodeControl.csproj.GenerateResource.cache
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodeControl.csproj.CoreCompileInputs.cache
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodControl.exe
+C:\Users\ghasa\source\repos\BarcodControl\obj\Debug\BarcodControl.pdb
+C:\Users\ghasa\source\repos\BarcodControl\bin\Debug\BarcodControl.exe.config

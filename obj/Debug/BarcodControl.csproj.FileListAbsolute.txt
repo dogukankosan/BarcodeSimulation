@@ -1,0 +1,8 @@
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\bin\Debug\BarcodControl.exe
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\bin\Debug\BarcodControl.pdb
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.csprojResolveAssemblyReference.cache
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.Form1.resources
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.Properties.Resources.resources
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.csproj.GenerateResource.Cache
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.exe
+c:\users\omerc\documents\visual studio 2017\Projects\BarcodControl\BarcodControl\obj\Debug\BarcodControl.pdb
